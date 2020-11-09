@@ -1,1 +1,3 @@
 #dev配置文件
+config:
+  info: test
